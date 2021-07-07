@@ -1,0 +1,1 @@
+puts "stock picker initilize :)"
